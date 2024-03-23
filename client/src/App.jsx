@@ -14,11 +14,11 @@ function App() {
        <BrowserRouter>
          <Routes>
           <Route path="/chat" element={<Chat/>}/>  
-/         </Routes>
+         </Routes>
        </BrowserRouter>
        </div>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
