@@ -14,7 +14,7 @@ const CustomerHeader = ({ chat }) => {
 
         <div className='flexbetween'>
           <PhoneIcon className='icon-phone'/>
-          <p className='header=text'>{chat.description}</p>
+          <p className='header-text'>{chat.description}</p>
         </div>
     </div>
   )

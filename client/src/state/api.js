@@ -17,5 +17,6 @@ export const api = createApi({
 });
 
 export const{
-    usePostAiTextMutation,
+    usePostAiTextMutation
 }=api;
+export default api;
